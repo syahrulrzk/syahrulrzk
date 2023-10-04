@@ -6,9 +6,6 @@
 - 🔭 I’m currently working on **NewIPRAN - Smartfren**
 - 👯 I’m looking to collaborate on **DevOps Development**
 - 🤝 I’m looking for help with **Someone who is proficient in linux system administration**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syahrulrzk&show_icons=true&locale=en&layout=compact" alt="syahrulrzk" /></p>
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
