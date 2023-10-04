@@ -4,9 +4,7 @@
 <p align="left"> <a href="https://twitter.com/syahrulrzk" target="blank"><img src="https://img.shields.io/twitter/follow/syahrulrzk?logo=twitter&style=for-the-badge" alt="syahrulrzk" /></a> </p>
 
 - 🔭 I’m currently working on **NewIPRAN - Smartfren**
-
 - 👯 I’m looking to collaborate on **DevOps Development**
-
 - 🤝 I’m looking for help with **Someone who is proficient in linux system administration**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syahrulrzk&show_icons=true&locale=en&layout=compact" alt="syahrulrzk" /></p>
